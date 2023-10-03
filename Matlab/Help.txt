@@ -1,0 +1,9 @@
+To simulate:
+Run the scripts in following order:
+-: convolution_pattern.m
+-: convolution_image.m
+-: convolution_image_pattern.m
+-: MaxPooling.m
+-: Pattern_detection.m
+
+Please note image.png and ptn.png are also provided in this directory
